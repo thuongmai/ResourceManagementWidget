@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/cpuImg.png</file>
+        <file>Images/networkImg.png</file>
+        <file>Images/ramImg.png</file>
+    </qresource>
+</RCC>
