@@ -1,7 +1,7 @@
-#RESOURCES MONITOR WIDGET  
-###The work presented in this paper is new and was prepared only for the course COMP 3000 Operating Systems, Winter 2017, School of Computer Science, Carleton University.
+# RESOURCES MONITOR WIDGET  
+### The work presented in this paper is new and was prepared only for the course COMP 3000 Operating Systems, Winter 2017, School of Computer Science, Carleton University.
 
-###Programmers:
+### Programmers:
 * Muhammad Farooqui
 * Thuong Mai
 
@@ -10,7 +10,7 @@
 **1. Context/Background**  
 Resource Monitoring Widget (RMW) is a resource monitoring tool that provides real-time consumption of resources 
 such as RAM and CPU by the system and programs that currently running on the Linux OS. It is targeted towards users 
-who are familiar with the Task Manager on Linux OS but doesn’t need lots of information on their monitor. The goal 
+who are familiar with the Task Manager on Linux OS but doesnâ€™t need lots of information on their monitor. The goal 
 of the Widget is to provide a lightweight, compact tool for users in Linux.
 
 **2. Problem Statement**  
